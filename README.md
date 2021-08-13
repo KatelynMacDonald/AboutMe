@@ -2,7 +2,13 @@
 ---
 ---
 ## Summary
+
+[I have a new home]: https://theuselessweb.site/.com/ducksarethebest
+
 My name is Katelyn MacDonald. I go to Tecumseh High School where I am currently on track for a technical and honors diploma. I plan on going to Purdue and major in computer science. 
+
+[1]: https://www.history.com/topics/us-presidents/john-f-kennedy
+[2]: https://www.britannica.com/biography/Michael-Jackson
 
 Hobbies
 -
@@ -34,5 +40,11 @@ If you obey __all the rules__, you’ll miss all the **fun**
 
 [Poptropica](https://www.poptropica.com/)
 [NCAA](https://www.espn.com/mens-college-basketball/team/_/id/84/indiana-hoosiers "Indiana Hoosiers")
+[I'm being tagged][I have a NEW HOME]
+
+## Persons of Interest
+
+[John F. Kennedy][1]
+[Michael Jackson][2]
 
 
