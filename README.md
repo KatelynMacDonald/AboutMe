@@ -44,8 +44,12 @@ If you obey __all the rules__, you’ll miss all the **fun**
 
 ## Persons of Interest
 
-[John F. Kennedy][1]
-[Michael Jackson][2]
-<img src="Michael Jackson.jpg" height="200px" width="300px">
+[John F. Kennedy][1]<br>
+<kbd>
+<img src="JohnFKennedy.jpg" height="200px" width="200px">
+  </kdb><br>
+[Michael Jackson][2]<br>
+<kbd>
+<img src="Michael Jackson.jpg" height="200px" width="300px"></kbd>
 
 
