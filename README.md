@@ -46,5 +46,6 @@ If you obey __all the rules__, you’ll miss all the **fun**
 
 [John F. Kennedy][1]
 [Michael Jackson][2]
+<img src="Michael Jackson.jpg" height="200px" width="300px">
 
 
