@@ -47,9 +47,15 @@ If you obey __all the rules__, you’ll miss all the **fun**
 [John F. Kennedy][1]<br>
 <kbd>
 <img src="JohnFKennedy.jpg" height="200px" width="200px">
-  </kdb><br>
+  </kbd><br>
 [Michael Jackson][2]<br>
 <kbd>
 <img src="Michael Jackson.jpg" height="200px" width="300px"></kbd>
+
+| CS Terms | Definitions | My Meaning
+|:-| :----: | ---: |
+| Cloud Storage | Information that is kept on remote servers that can be accessed anywhere via the Internet | Information that you can store and be able to access it throught the Internet |
+| Bit | the smallest piece of information used by a computer | Put together with each other to create the information for a computer |
+| Bug | a programming error that causes unexpected glitches or problems for a program’s end user | An error in the program that causes it problems |
 
 
