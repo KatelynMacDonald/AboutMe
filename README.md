@@ -3,7 +3,7 @@
 ---
 ## Summary
 
-[I have a new home]: https://theuselessweb.site/.com/ducksarethebest
+[I have a new home]: https://theuselessweb.site/ducksarethebest.com/
 
 My name is Katelyn MacDonald. I go to Tecumseh High School where I am currently on track for a technical and honors diploma. I plan on going to Purdue and major in computer science. 
 
